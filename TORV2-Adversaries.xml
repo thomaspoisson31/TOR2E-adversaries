@@ -75,7 +75,7 @@
 <body>
     <div class="container">
         <div id="adversary-viewer" class="adversary-card"></div>
-        <button id="next-adversary">Adversaire Suivant</button>
+        <button id="next-adversary">Adversaire Suivant v2</button>
     </div>
 
     <script>
